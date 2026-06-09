@@ -394,7 +394,7 @@ export default function Home() {
           <span className="font-semibold" style={{ color: "var(--color-text-alt)" }}>
             피플팀
           </span>
-          <span>© 2026 Vivawave. All rights reserved.</span>
+          <span>© 2026 Vivawave People Team. All rights reserved.</span>
         </div>
       </footer>
 
